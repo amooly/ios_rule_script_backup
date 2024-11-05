@@ -1,0 +1,16 @@
+# NAME: Feishu
+# AUTHOR: mooly
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2024-11-05 00:00:00
+# HOST: 0
+# HOST-KEYWORD: 0
+# HOST-SUFFIX: 5
+# IP-CIDR: 0
+# IP6-CIDR: 0
+# USER-AGENT: 0
+# TOTAL: 5
+HOST-SUFFIX,larkoffice.com,Feishu
+HOST-SUFFIX,byted.org,Feishu
+HOST-SUFFIX,bytedance.net,Feishu
+HOST-SUFFIX,feishu.cn,Feishu
+HOST-SUFFIX,feishucdn.com,Feishu
